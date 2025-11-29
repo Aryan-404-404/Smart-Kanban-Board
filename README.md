@@ -2,10 +2,10 @@
 
 A fully functional Task Management application built with React and Vite. I built this project to master complex state management and implement Drag-and-Drop functionality from scratch without relying on heavy external libraries.
 
-🔗 **Live Demo:** [Update this with your Vercel Link]
+🔗 **Live Demo:** [https://smart-kanban-board.vercel.app/]
 
-![Kanban Preview](https://via.placeholder.com/800x400?text=Your+Project+Screenshot+Here)
-*(Optional: Replace the link above with a real screenshot of your app once you have one)*
+![Kanban Preview](<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/5ce8f63d-cd2e-4b4c-8fe9-64641661b0a0" />
+)
 
 ## 🚀 Features
 
