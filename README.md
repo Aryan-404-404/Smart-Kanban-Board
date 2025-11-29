@@ -4,8 +4,6 @@ A fully functional Task Management application built with React and Vite. I buil
 
 🔗 **Live Demo:** [https://smart-kanban-board.vercel.app/]
 
-![Kanban Preview](<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/5ce8f63d-cd2e-4b4c-8fe9-64641661b0a0" />
-)
 
 ## 🚀 Features
 
