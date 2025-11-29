@@ -1,16 +1,32 @@
-# React + Vite
+# Smart Kanban Board 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional Task Management application built with React and Vite. I built this project to master complex state management and implement Drag-and-Drop functionality from scratch without relying on heavy external libraries.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Update this with your Vercel Link]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Kanban Preview](https://via.placeholder.com/800x400?text=Your+Project+Screenshot+Here)
+*(Optional: Replace the link above with a real screenshot of your app once you have one)*
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Native Drag & Drop:** Implemented using the HTML5 DnD API (Zero dependencies).
+- **Persistence:** Tasks are saved to LocalStorage, so data survives page refreshes.
+- **Full CRUD:**
+  - **Create:** Add new tasks.
+  - **Read:** View tasks organized by status (Todo, Doing, Done).
+  - **Update:** Click to edit task titles in-place.
+  - **Delete:** Remove tasks.
+- **Responsive Design:** Looks good on mobile and desktop using Tailwind CSS.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework:** React + Vite
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks (`useState`, `useEffect`)
+- **Language:** JavaScript (ES6+)
+
+## 💻 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/Aryan-404-404/Smart-Kanban-Board.git](https://github.com/Aryan-404-404/Smart-Kanban-Board.git)
